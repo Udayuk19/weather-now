@@ -32,39 +32,32 @@ It fetches real-time weather data (using an API) and displays it in a clean, res
    ```bash
    git clone https://github.com/Udayuk19/weather-now.git
    cd weather-now
-Install dependencies
-
-bash
-Copy code
-npm install
-Run the development server
-
-bash
-Copy code
-npm start
+2. **Install dependencies**
+    npm install
+   
+4. **Run the development server**
+    npm start
 👉 The app will run at http://localhost:3000
 
-🌐 Deployment
-You can deploy this app easily on platforms like:
+🌐 **Deployment**
+    You can deploy this app easily on platforms like:
 
-Netlify
+    Netlify
 
-Vercel
+    Vercel
 
-GitHub Pages
+    GitHub Pages
 
 Example (Vercel):
 
-bash
-Copy code
-npm run build
-Then deploy the build/ folder.
+    npm run build
 
-📜 License
-This project is open-source and available under the MIT License.
+📜 **License**
+   This project is open-source and available under the MIT License.
 
-👨‍💻 Author
-Uday Kumar
-🔗 GitHub | LinkedIn
+👨‍💻 **Author**
+     Uday Kumar
+     🔗 GitHub:- https://github.com/Udayuk19
+     🔗 LinkedIn:- https://www.linkedin.com/in/mamillapalli-uday-kumar-b5a609298/
 
 ✨ Built with ❤️ using React + TailwindCSS
