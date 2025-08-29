@@ -5,6 +5,9 @@ It fetches real-time weather data (using an API) and displays it in a clean, res
 
 ---
 
+## 🚀 Live Demo  
+👉 View Application(DEMO-LINK):- https://7554v6-3000.csb.app/
+
 ## 📸 Preview
 <img width="1175" height="736" alt="image" src="https://github.com/user-attachments/assets/aa3b9a7d-2cce-472a-8905-3cbfdbbbb87a" />
 
